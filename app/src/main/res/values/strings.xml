@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyMusic</string>
+    <string name="search_for_artists">Search for artists</string>
+    <string name="nodata_found">Nodata found</string>
+</resources>
